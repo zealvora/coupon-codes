@@ -12,34 +12,34 @@ https://www.udemy.com/user/cybercorp/
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | AWS Certified Cloud Practitioner 2019 | AWS-JOURNEY | 
-| 2 |AWS Certified Solutions Architect - Associate  2019| ASSOCIATE-LIMITED
-| 3 |AWS Certified Solutions Architect - Professional 2019 | LEARN-PRO
+| 1 | AWS Certified Cloud Practitioner 2019 | LEARN-AWS | 
+| 2 |AWS Certified Solutions Architect - Associate  2019| AWS-ASSOCIATE
+| 3 |AWS Certified Solutions Architect - Professional 2019 | KPLABS-CSA-PRO
 | 4 |AWS Certified Advanced Networking - Specialty 2019 | ANS-LEARNING
-| 5 |AWS Certified Security - Specialty 2019 | AWS-SECURITY
-| 6 |AWS Certified Advanced Networking - Specialty 2019 | ANS-LEARNING	
-| 7 |AWS Certified DevOps Engineer - Professional | GITHUB-LEARNING
+| 5 |AWS Certified Security - Specialty 2019 | LEARN-AWS-SECURITY
+| 6 |AWS Certified Advanced Networking - Specialty 2019 | LEARN-NETWORKING	
+| 7 |AWS Certified DevOps Engineer - Professional | 8811106E886B42747CD2
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2019 | GITHUB-LEARNING | 
-| 2 | Certified Kubernetes Administrator 2019 | 66B36B527926319E3696 | 
+| 1 | Docker Certified Associate 2019 | YOUTUBE-LEARNING | 
+| 2 | Certified Kubernetes Administrator 2019 | LEARNING-Q001 | 
 
 # DevOps Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Terraform - Beginner to Advanced 2019 | TERRAFORM-LIMITED | 
-| 2 | Nginx - Beginner to Advanced 2019 | NGINX-ROCKS | 
-| 3 | Splunk  -Beginner to Architect 2019 | GITHUB-LEARNING | 
+| 1 | Terraform - Beginner to Advanced 2019 | KPLABS-TERRAFORM | 
+| 2 | Nginx - Beginner to Advanced 2019 | AWESOME-NGINX | 
+| 3 | Splunk  -Beginner to Architect 2019 | YOUTUBE-LEARNING | 
 
 # Security Spcific Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Ultimate Wi-Fi Hacking & Security Series 2019 | WIRELESS-SECURITY| 
+| 1 | Ultimate Wi-Fi Hacking & Security Series 2019 | WIFI-SECURITY| 
 
 
 ### Contact Zeal Vora
