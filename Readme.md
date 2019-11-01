@@ -15,8 +15,8 @@ https://www.udemy.com/user/cybercorp/
 | 1 | AWS Certified Cloud Practitioner 2019 | AWS-ROCKS | 
 | 2 |AWS Certified Solutions Architect - Associate  2019| AWS-ASSOCIATE
 | 3 |AWS Certified Solutions Architect - Professional 2019 | AWS-CSA-PRO
-| 4 |AWS Certified Advanced Networking - Specialty 2019 | SECURITY-ROCKS
-| 5 |AWS Certified Security - Specialty 2019 | LEARN-AWS-SECURITY
+| 4 |AWS Certified Advanced Networking - Specialty 2019 | ADVANCED-NETWORKING
+| 5 |AWS Certified Security - Specialty 2019 | SECURITY-ROCKS
 | 6 |AWS Certified Advanced Networking - Specialty 2019 | ADVANCED-NETWORKING	
 | 7 |AWS Certified DevOps Engineer - Professional | AWS-DEVOPS-PRO
 
