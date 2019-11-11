@@ -12,35 +12,35 @@ https://www.udemy.com/user/cybercorp/
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | AWS Certified Cloud Practitioner 2019 | AWS-ROCKS | 
-| 2 |AWS Certified Solutions Architect - Associate  2019| AWS-ASSOCIATE
-| 3 |AWS Certified Solutions Architect - Professional 2019 | AWS-CSA-PRO
-| 4 |AWS Certified Advanced Networking - Specialty 2019 | ADVANCED-NETWORKING
-| 5 |AWS Certified Security - Specialty 2019 | SECURITY-ROCKS
-| 6 |AWS Certified Advanced Networking - Specialty 2019 | ADVANCED-NETWORKING	
-| 7 |AWS Certified DevOps Engineer - Professional | AWS-DEVOPS-PRO
+| 1 | AWS Certified Cloud Practitioner 2019 | LEARN-AWS | 
+| 2 |AWS Certified Solutions Architect - Associate  2019| AWS-ASSOCIATE |
+| 3 |AWS Certified Solutions Architect - Professional 2019 | KPLABS-CSA-PRO |
+| 4 |AWS Certified Advanced Networking - Specialty 2019 | LEARN-NETWORKING |
+| 5 |AWS Certified Security - Specialty 2019 | LEARN-AWS-SECURITY |
+| 6 |AWS Certified Advanced Networking - Specialty 2019 | ADVANCED-NETWORKING	|
+| 7 |AWS Certified DevOps Engineer - Professional | AWS-DEVOPS-CERT |
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2019 | DCA-CERT | 
-| 2 | Certified Kubernetes Administrator 2019 | LEARN-CKA | 
+| 1 | Docker Certified Associate 2019 | YOUTUBE-LEARNING | 
+| 2 | Certified Kubernetes Administrator 2019 | LEARNING-Q001 | 
 | 3 | Certified Kubernetes Application Developer 2019 | LEARN-CKAD | 
 
 # DevOps Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Terraform - Beginner to Advanced 2019 | TERRAFORM-ROCKS | 
-| 2 | Nginx - Beginner to Advanced 2019 | BEST-WEBSERVER | 
-| 3 | Splunk  -Beginner to Architect 2019 | AWESOME-SPLUNK | 
+| 1 | Terraform - Beginner to Advanced 2019 | KPLABS-TERRAFORM | 
+| 2 | Nginx - Beginner to Advanced 2019 | AWESOME-NGINX | 
+| 3 | Splunk  -Beginner to Architect 2019 | SPLUNK-IS-AWESOME | 
 
 # Security Spcific Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Ultimate Wi-Fi Hacking & Security Series 2019 | WIFI-SEC| 
+| 1 | Ultimate Wi-Fi Hacking & Security Series 2019 | WIFI-SECURITY | 
 
 
 ### Contact Zeal Vora
