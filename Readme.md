@@ -12,11 +12,11 @@ https://www.udemy.com/user/cybercorp/
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | AWS Certified Cloud Practitioner 2019 | LEARN-AWS | 
-| 2 |AWS Certified Solutions Architect - Associate  2019| AWS-ASSOCIATE |
-| 3 |AWS Certified Solutions Architect - Professional 2019 | KPLABS-CSA-PRO |
-| 4 |AWS Certified Advanced Networking - Specialty 2019 | LEARN-NETWORKING |
-| 5 |AWS Certified Security - Specialty 2019 | LEARN-AWS-SECURITY |
+| 1 | AWS Certified Cloud Practitioner 2019 | AWESOME-AWS | 
+| 2 |AWS Certified Solutions Architect - Associate  2019| AWS-SA-ASSOCIATE |
+| 3 |AWS Certified Solutions Architect - Professional 2019 | AWS-SA-PROFESSIONAL |
+| 4 |AWS Certified Advanced Networking - Specialty 2019 | NETWORK-SPECIALTY |
+| 5 |AWS Certified Security - Specialty 2019 | AWS-SECURITY-AWESOME |
 | 6 |AWS Certified Advanced Networking - Specialty 2019 | ADVANCED-NETWORKING	|
 | 7 |AWS Certified DevOps Engineer - Professional | AWS-DEVOPS-CERT |
 
@@ -32,15 +32,15 @@ https://www.udemy.com/user/cybercorp/
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Terraform - Beginner to Advanced 2019 | KPLABS-TERRAFORM | 
-| 2 | Nginx - Beginner to Advanced 2019 | AWESOME-NGINX | 
+| 1 | Terraform - Beginner to Advanced 2019 | TERRAFORM-IAC | 
+| 2 | Nginx - Beginner to Advanced 2019 | NGINX-WEBSERVER | 
 | 3 | Splunk  -Beginner to Architect 2019 | SPLUNK-IS-AWESOME | 
 
 # Security Spcific Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Ultimate Wi-Fi Hacking & Security Series 2019 | WIFI-SECURITY | 
+| 1 | Ultimate Wi-Fi Hacking & Security Series 2019 | LEARN-WIFI-SECURITY | 
 
 
 ### Contact Zeal Vora
