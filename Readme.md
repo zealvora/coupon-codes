@@ -26,7 +26,7 @@ https://www.udemy.com/user/cybercorp/
 | ------ | ------ | ------ |
 | 1 | Docker Certified Associate 2019 | DOCKER-LEARNING | 
 | 2 | Certified Kubernetes Administrator 2019 | CKA-CERT | 
-| 3 | Certified Kubernetes Application Developer 2019 | LEARN-CKAD | 
+| 3 | Certified Kubernetes Application Developer 2019 | CKAD-LEARNING | 
 
 # DevOps Courses
 
