@@ -18,14 +18,14 @@ https://www.udemy.com/user/cybercorp/
 | 4 |AWS Certified Advanced Networking - Specialty 2019 | NETWORK-SPECIALTY |
 | 5 |AWS Certified Security - Specialty 2019 | AWS-SECURITY-AWESOME |
 | 6 |AWS Certified Advanced Networking - Specialty 2019 | ADVANCED-NETWORKING	|
-| 7 |AWS Certified DevOps Engineer - Professional | AWS-DEVOPS-CERT |
+| 7 |AWS Certified DevOps Engineer - Professional | DEVOPS-PRO |
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2019 | DOCKER-LEARNING | 
-| 2 | Certified Kubernetes Administrator 2019 | CKA-CERT | 
+| 1 | Docker Certified Associate 2019 | DCA-ROCKS | 
+| 2 | Certified Kubernetes Administrator 2019 | CKA-LEARNING | 
 | 3 | Certified Kubernetes Application Developer 2019 | CKAD-LEARNING | 
 
 # DevOps Courses
@@ -34,7 +34,7 @@ https://www.udemy.com/user/cybercorp/
 | ------ | ------ | ------ |
 | 1 | Terraform - Beginner to Advanced 2019 | TERRAFORM-IAC | 
 | 2 | Nginx - Beginner to Advanced 2019 | NGINX-WEBSERVER | 
-| 3 | Splunk  -Beginner to Architect 2019 | SPLUNK-IS-AWESOME | 
+| 3 | Splunk  -Beginner to Architect 2019 | SPLUNK-AWESOME | 
 
 # Security Spcific Courses
 
