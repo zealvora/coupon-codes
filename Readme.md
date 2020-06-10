@@ -34,7 +34,7 @@ https://www.udemy.com/user/cybercorp/
 | 1 | HashiCorp Certified: Terraform Associate 2020 | TERRAFORM-CERT-JUNE | 
 | 2 | Nginx - Beginner to Advanced 2019 | NGINX-MAY-2020 | 
 | 3 | Splunk  -Beginner to Architect 2020 | SPLUNK-MAY-2020 | 
-| 4 | HashiCorp Certified - Vault Associate 2020 | VAULT-AFFORDABLE	 | 
+| 4 | HashiCorp Certified - Vault Associate 2020 | VAULT-CERT | 
 
 # Security Spcific Courses
 
