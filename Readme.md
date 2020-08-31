@@ -31,10 +31,10 @@ https://www.udemy.com/user/cybercorp/
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2020 | TERRAFORM-CERT-AUG | 
+| 1 | HashiCorp Certified: Terraform Associate 2020 | TERRAFORM-SEP-20 | 
 | 2 | Nginx - Beginner to Advanced 2019 | NGINX-AUG-20 | 
 | 3 | Splunk  -Beginner to Architect 2020 | SPLUNK-AUG-20 | 
-| 4 | HashiCorp Certified - Vault Associate 2020 | VAULT-AUG-2020 | 
+| 4 | HashiCorp Certified - Vault Associate 2020 | VAULT-SEP-20 | 
 
 # Security Spcific Courses
 
