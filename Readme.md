@@ -12,7 +12,7 @@ https://www.udemy.com/user/cybercorp/
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 |AWS Certified Cloud Practitioner 2020 | CP-AUG-20	 | 
+| 1 |AWS Certified Cloud Practitioner 2020 | CP-SEP-20	 | 
 | 2 |AWS Certified Solutions Architect - Associate  2019| SA-AUG-20 |
 | 3 |AWS Certified Solutions Architect - Professional 2020 | CSAPRO-AUG-20 |
 | 4 |AWS Certified Advanced Networking - Specialty 2020 | ANS-AUG-20 |
