@@ -12,7 +12,7 @@ https://www.udemy.com/user/cybercorp/
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 |AWS Certified Cloud Practitioner 2020 | CP-SEP-20	 | 
+| 1 |AWS Certified Cloud Practitioner 2020 | CP-OCT-20	 | 
 | 2 |AWS Certified Solutions Architect - Associate  2019| SAA-SEP-20 |
 | 3 |AWS Certified Solutions Architect - Professional 2020 | CSAPRO-SEP-20 |
 | 4 |AWS Certified Advanced Networking - Specialty 2020 | ANS-SEP-20 |
@@ -34,7 +34,7 @@ https://www.udemy.com/user/cybercorp/
 | 1 | HashiCorp Certified: Terraform Associate 2020 | TERRAFORM-SEP-20 | 
 | 2 | Nginx - Beginner to Advanced 2019 | NGINX-SEP-20 | 
 | 3 | Splunk  -Beginner to Architect 2020 | SPLUNK-SEP-20 | 
-| 4 | HashiCorp Certified - Vault Associate 2020 | VAULT-SEP-20 | 
+| 4 | HashiCorp Certified - Vault Associate 2020 | VAULT-OCT-20 | 
 
 # Security Spcific Courses
 
