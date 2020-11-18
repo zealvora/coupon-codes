@@ -14,25 +14,25 @@ https://www.udemy.com/user/cybercorp/
 | ------ | ------ | ------ |
 | 1 |AWS Certified Cloud Practitioner 2020 | CP-NOV-20	 | 
 | 2 |AWS Certified Solutions Architect - Associate  2019| SAA-NOV-20 |
-| 3 |AWS Certified Solutions Architect - Professional 2020 | CSPRO-OCT-20 |
-| 4 |AWS Certified Advanced Networking - Specialty 2020 | ANS-OCT-20 |
-| 5 |AWS Certified Security - Specialty 2020 | AWSSEC-OCT-20 |
-| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-OCT-20 |
+| 3 |AWS Certified Solutions Architect - Professional 2020 | SAPRO-NOV-2020 |
+| 4 |AWS Certified Advanced Networking - Specialty 2020 | ANS-NOV-2020 |
+| 5 |AWS Certified Security - Specialty 2020 | AWS-SEC-NOV-2020 |
+| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-NOV-2020 |
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2020 | DCA-OCT-20 | 
-| 2 | Certified Kubernetes Administrator 2020 | CKA-OCT-20  | 
-| 3 | Certified Kubernetes Application Developer 2020 | CKAD-OCT-2020 | 
+| 1 | Docker Certified Associate 2020 | DCA-NOV-2020 | 
+| 2 | Certified Kubernetes Administrator 2020 | CKA-NOV-2020 | 
+| 3 | Certified Kubernetes Application Developer 2020 | CKAD-NOV-2020 | 
 
 # DevOps Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
 | 1 | HashiCorp Certified: Terraform Associate 2020 | TERRAFORM-NOV-20 | 
-| 2 | Nginx - Beginner to Advanced 2019 | NGINX-OCT-20 | 
+| 2 | Nginx - Beginner to Advanced 2019 | NGINX-NOV-2020 | 
 | 3 | Splunk  -Beginner to Architect 2020 | SPLUNK-NOV-20 | 
 | 4 | HashiCorp Certified - Vault Associate 2020 | VAULT-NOV-20 | 
 
