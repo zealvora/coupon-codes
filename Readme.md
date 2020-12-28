@@ -35,7 +35,7 @@ https://www.udemy.com/user/cybercorp/
 | 2 | Nginx - Beginner to Advanced 2019 | NGINX-DEC-2020 | 
 | 3 | Splunk  -Beginner to Architect 2020 | SPLUNK-DEC-20 | 
 | 4 | HashiCorp Certified - Vault Associate 2020 | VAULT-DEC-20 | 
-| 5 | HashiCorp Certified - Consul Associate 2020 | AWESOME-CONSUL | 
+| 5 | HashiCorp Certified - Consul Associate 2020 | CONSUL-JAN-2021 | 
 
 
 # Security Spcific Courses
