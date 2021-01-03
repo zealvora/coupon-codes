@@ -24,8 +24,8 @@ https://www.udemy.com/user/cybercorp/
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
 | 1 | Docker Certified Associate 2020 | DCA-DEC-2020 | 
-| 2 | Certified Kubernetes Administrator 2020 | CKA-DEC-2020 | 
-| 3 | Certified Kubernetes Application Developer 2020 | CKAD-DEC-2020 | 
+| 2 | Certified Kubernetes Administrator 2020 | CKAD-DEC-2020	 | 
+| 3 | Certified Kubernetes Application Developer 2020 | CKA-DEC-2020 | 
 | 4 | Certified Kubernetes Security Specialist 2021 | CKS-LAUNCH-DEC-2020 | 
 
 # DevOps Courses
