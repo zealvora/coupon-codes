@@ -26,7 +26,7 @@ https://www.udemy.com/user/cybercorp/
 | 1 | Docker Certified Associate 2021 | DCA-JAN-2021 | 
 | 2 | Certified Kubernetes Administrator 2021 | CKAD-JAN-2021	 | 
 | 3 | Certified Kubernetes Application Developer 2021 | CKA-JAN-21 | 
-| 4 | Certified Kubernetes Security Specialist 2021 | CKS-LAUNCH-DEC-2020 | 
+| 4 | Certified Kubernetes Security Specialist 2021 | CKS-FEB-2021 | 
 
 # DevOps Courses
 
