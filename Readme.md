@@ -32,7 +32,7 @@ https://www.udemy.com/user/cybercorp/
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2021 | TF-MAY-21 | 
+| 1 | HashiCorp Certified: Terraform Associate 2021 | TF-JUNE-21 | 
 | 2 | Nginx - Beginner to Advanced 2019 | NGINX-JUNE-21 | 
 | 3 | Splunk  -Beginner to Architect 2020 | SPLUNK-JUNE-21 | 
 | 4 | HashiCorp Certified - Vault Associate 2021 | VAULT-JUNE-21 | 
