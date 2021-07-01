@@ -14,10 +14,10 @@ https://www.udemy.com/user/cybercorp/
 | ------ | ------ | ------ |
 | 1 |AWS Certified Cloud Practitioner 2021 | CP-JULY-NEW-21	 | 
 | 2 |AWS Certified Solutions Architect - Associate  2019| SAA-JULY-21 |
-| 3 |AWS Certified Solutions Architect - Professional 2020 | SAPRO-JUNE-21 |
+| 3 |AWS Certified Solutions Architect - Professional 2020 | SAPRO-JULY-21 |
 | 4 |AWS Certified Advanced Networking - Specialty 2020 | ANS-JULY-21 |
 | 5 |AWS Certified Security - Specialty 2021 | AWSSEC-JULY-21 |
-| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-JUNE-21 |
+| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-JULY-21 |
 
 # Container and Orchestration
 
@@ -32,7 +32,7 @@ https://www.udemy.com/user/cybercorp/
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2021 | TF-JUNE-21 | 
+| 1 | HashiCorp Certified: Terraform Associate 2021 | TF-JULY-21 | 
 | 2 | Nginx - Beginner to Advanced 2019 | NGINX-JULY-21 | 
 | 3 | Splunk  -Beginner to Architect 2020 | SPLUNK-JULY-21 | 
 | 4 | HashiCorp Certified - Vault Associate 2021 | VAULT-JULY-21 | 
