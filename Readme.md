@@ -14,7 +14,7 @@ https://www.udemy.com/user/cybercorp/
 | ------ | ------ | ------ |
 | 1 |AWS Certified Cloud Practitioner 2021 | CP-AUG-21	 | 
 | 2 |AWS Certified Solutions Architect - Associate  2019| SAA-AUG-21 |
-| 3 |AWS Certified Solutions Architect - Professional 2020 | SAPRO-JULY-21 |
+| 3 |AWS Certified Solutions Architect - Professional 2020 | SAPRO-AUG-21 |
 | 4 |AWS Certified Advanced Networking - Specialty 2020 | ANS-AUG-21 |
 | 5 |AWS Certified Security - Specialty 2021 | AWSSEC-AUG-21 |
 | 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-AUG-21 |
