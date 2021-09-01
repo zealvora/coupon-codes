@@ -17,7 +17,7 @@ https://www.udemy.com/user/cybercorp/
 | 3 |AWS Certified Solutions Architect - Professional 2020 | SAPRO-SEP-21 |
 | 4 |AWS Certified Advanced Networking - Specialty 2020 | ANS-SEP-21 |
 | 5 |AWS Certified Security - Specialty 2021 | AWSSEC-SEP-21 |
-| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-AUG-21 |
+| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-SEP-21 |
 
 # Container and Orchestration
 
