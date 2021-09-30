@@ -25,7 +25,7 @@ https://www.udemy.com/user/cybercorp/
 | ------ | ------ | ------ |
 | 1 | Docker Certified Associate 2021 | DCA-SEP-21 | 
 | 2 | Certified Kubernetes Administrator 2021 | CKA-SEP-21	 | 
-| 3 | Certified Kubernetes Application Developer 2021 | CKAD-SEP-21 | 
+| 3 | Certified Kubernetes Application Developer 2021 | CKAD-OCT-21 | 
 | 4 | Certified Kubernetes Security Specialist 2021 | CKS-SEP-21| 
 
 # DevOps Courses
@@ -36,7 +36,7 @@ https://www.udemy.com/user/cybercorp/
 | 2 | Nginx - Beginner to Advanced 2019 | NGINX-SEP-21 | 
 | 3 | Splunk  -Beginner to Architect 2020 | SPLUNK-SEP-21 | 
 | 4 | HashiCorp Certified - Vault Associate 2021 | VAULT-SEP-21 | 
-| 5 | HashiCorp Certified - Consul Associate 2021 | CONSUL-SEP-21	 | 
+| 5 | HashiCorp Certified - Consul Associate 2021 | CONSUL-OCT-21	 | 
 
 
 # Security Spcific Courses
