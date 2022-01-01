@@ -12,31 +12,31 @@ https://www.udemy.com/user/cybercorp/
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 |AWS Certified Cloud Practitioner 2021 | CP-JAN-22 | 
-| 2 |AWS Certified Solutions Architect - Associate  2019| SAA-JAN-22 |
-| 3 |AWS Certified Solutions Architect - Professional 2020 | SAPRO-JAN-22 |
-| 4 |AWS Certified Advanced Networking - Specialty 2020 | ANS-JAN-22 |
-| 5 |AWS Certified Security - Specialty 2021 | AWSSEC-JAN-22 |
+| 1 |AWS Certified Cloud Practitioner 2022 | CP-JAN-22 | 
+| 2 |AWS Certified Solutions Architect - Associate  2022| SAA-JAN-22 |
+| 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-JAN-22 |
+| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-JAN-22 |
+| 5 |AWS Certified Security - Specialty 2022 | AWSSEC-JAN-22 |
 | 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-JAN-22 |
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2021 | DCA-JAN-22 | 
-| 2 | Certified Kubernetes Administrator 2021 | CKA-JAN-22	 | 
-| 3 | Certified Kubernetes Application Developer 2021 | CKAD-JAN-22 | 
-| 4 | Certified Kubernetes Security Specialist 2021 | CKS-JAN-22| 
+| 1 | Docker Certified Associate 2022 | DCA-JAN-22 | 
+| 2 | Certified Kubernetes Administrator 2022 | CKA-JAN-22	 | 
+| 3 | Certified Kubernetes Application Developer 2022 | CKAD-JAN-22 | 
+| 4 | Certified Kubernetes Security Specialist 2022 | CKS-JAN-22| 
 
 # DevOps Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2021 | TF-JAN-22 | 
-| 2 | Nginx - Beginner to Advanced 2019 | NGINX-JAN-22 | 
-| 3 | Splunk  -Beginner to Architect 2020 | SPLUNK-JAN-22 | 
-| 4 | HashiCorp Certified - Vault Associate 2021 | VAULT-JAN-22 | 
-| 5 | HashiCorp Certified - Consul Associate 2021 | CONSUL-JAN-22	 | 
+| 1 | HashiCorp Certified: Terraform Associate 2022 | TF-JAN-22 | 
+| 2 | Nginx - Beginner to Advanced 2022 | NGINX-JAN-22 | 
+| 3 | Splunk  -Beginner to Architect 2022 | SPLUNK-JAN-22 | 
+| 4 | HashiCorp Certified - Vault Associate 2022 | VAULT-JAN-22 | 
+| 5 | HashiCorp Certified - Consul Associate 2022 | CONSUL-JAN-22	 | 
 
 
 # Security Spcific Courses
