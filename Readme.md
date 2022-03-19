@@ -8,6 +8,8 @@ Udemy has recently made major changes to their coupon code systems. This complet
 https://www.udemy.com/user/cybercorp/
 ```
 
+## Due to a recent update made from the Udemy side on their pricing tiers, you might face issues related to coupons not working. We are actively working to fix this issue with Udemy.
+
 # AWS Courses 
 
 | Sr No | Document Link | Coupon Code |
