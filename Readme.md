@@ -32,7 +32,7 @@ http://kplabs.in/chat
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
 | 1 | Docker Certified Associate 2022 | DCA-JUNE-22 | 
-| 2 | Certified Kubernetes Administrator 2022 | CKA-MAY-22 | 
+| 2 | Certified Kubernetes Administrator 2022 | CKA-JUNE-22 | 
 | 3 | Certified Kubernetes Application Developer 2022 | CKAD-JUNE-22 | 
 | 4 | Certified Kubernetes Security Specialist 2022 | CKS-JUNE-22 | 
 
