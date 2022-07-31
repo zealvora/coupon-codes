@@ -20,31 +20,31 @@ http://kplabs.in/chat
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 |AWS Certified Cloud Practitioner 2022 | CP-JULY-22 | 
-| 2 |AWS Certified Solutions Architect - Associate  2022| SAA-JULY-22 |
-| 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-JULY-22 |
-| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-JULY-22 |
-| 5 |AWS Certified Security - Specialty 2022 | AWSSEC-JULY-22 |
-| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-JULY-22 |
+| 1 |AWS Certified Cloud Practitioner 2022 | CP-AUG-22 | 
+| 2 |AWS Certified Solutions Architect - Associate  2022| SAA-AUG-22 |
+| 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-AUG-22 |
+| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-AUG-22 |
+| 5 |AWS Certified Security - Specialty 2022 | AWSSEC-AUG-22 |
+| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-AUG-22 |
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2022 | DCA-JULY-22 | 
-| 2 | Certified Kubernetes Administrator 2022 | CKA-JULY-22 | 
-| 3 | Certified Kubernetes Application Developer 2022 | CKAD-JULY-22 | 
-| 4 | Certified Kubernetes Security Specialist 2022 | CKS-JULY-22 | 
+| 1 | Docker Certified Associate 2022 | DCA-AUG-22 | 
+| 2 | Certified Kubernetes Administrator 2022 | CKA-AUG-22 | 
+| 3 | Certified Kubernetes Application Developer 2022 | CKAD-AUG-22 | 
+| 4 | Certified Kubernetes Security Specialist 2022 | CKS-AUG-22 | 
 
 # DevOps Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2022 | TF-JULY-22 | 
-| 2 | Nginx - Beginner to Advanced 2022 | NGINX-JULY-22 | 
-| 3 | Splunk  -Beginner to Architect 2022 | SPLUNK-JULY-22 | 
-| 4 | HashiCorp Certified - Vault Associate 2022 | VAULT-JULY-22 | 
-| 5 | HashiCorp Certified - Consul Associate 2022 | CONSUL-JULY-22	 | 
+| 1 | HashiCorp Certified: Terraform Associate 2022 | TF-AUG-22 | 
+| 2 | Nginx - Beginner to Advanced 2022 | NGINX-AUG-22 | 
+| 3 | Splunk  -Beginner to Architect 2022 | SPLUNK-AUG-22 | 
+| 4 | HashiCorp Certified - Vault Associate 2022 | VAULT-AUG-22 | 
+| 5 | HashiCorp Certified - Consul Associate 2022 | CONSUL-AUG-22	 | 
 
 
 
