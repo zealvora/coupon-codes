@@ -23,7 +23,7 @@ http://kplabs.in/chat
 | 1 |AWS Certified Cloud Practitioner 2023 | CP-NOV-23 | 
 | 2 |AWS Certified Solutions Architect - Associate  2023| SAA-NOV-23 |
 | 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-NOV-23 |
-| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-OCT-23 |
+| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-NOV-23 |
 | 5 |AWS Certified Security - Specialty 2023 | SEC-NOV-23 |
 | 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-NOV-23 |
 
