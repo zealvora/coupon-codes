@@ -25,7 +25,7 @@ http://kplabs.in/chat
 | 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-JAN-24 |
 | 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-JAN-24 |
 | 5 |AWS Certified Security - Specialty 2023 | SEC-JAN-24 |
-| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-DEC-23 |
+| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-JAN-24 |
 
 # Container and Orchestration
 
