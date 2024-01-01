@@ -20,31 +20,31 @@ http://kplabs.in/chat
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 |AWS Certified Cloud Practitioner 2023 | CP-DEC-23 | 
-| 2 |AWS Certified Solutions Architect - Associate  2023| SAA-DEC-23 |
-| 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-DEC-23 |
-| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-DEC-23 |
-| 5 |AWS Certified Security - Specialty 2023 | SEC-DEC-23 |
+| 1 |AWS Certified Cloud Practitioner 2023 | CP-JAN-24 | 
+| 2 |AWS Certified Solutions Architect - Associate  2023| SAA-JAN-24 |
+| 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-JAN-24 |
+| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-JAN-24 |
+| 5 |AWS Certified Security - Specialty 2023 | SEC-JAN-24 |
 | 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-DEC-23 |
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2023 | DCA-DEC-23 | 
-| 2 | Certified Kubernetes Administrator 2023 | CKA-DEC-23 | 
-| 3 | Certified Kubernetes Application Developer 2023 | CKAD-DEC-23 | 
-| 4 | Certified Kubernetes Security Specialist 2023 | CKS-DEC-23 | 
+| 1 | Docker Certified Associate 2023 | DCA-JAN-24 | 
+| 2 | Certified Kubernetes Administrator 2023 | CKA-JAN-24 | 
+| 3 | Certified Kubernetes Application Developer 2023 | CKAD-JAN-24 | 
+| 4 | Certified Kubernetes Security Specialist 2023 | CKS-JAN-24 | 
 
 # DevOps Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-DEC-23 | 
-| 2 | Nginx - Beginner to Advanced 2022 | NGINX-DEC-23 | 
-| 3 | Splunk 2023 - Beginner to Architect | SPLUNK-DEC-23 | 
-| 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-DEC-23 | 
-| 5 | HashiCorp Certified - Consul Associate 2022 | CONSUL-DEC-23	 | 
+| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-JAN-24 | 
+| 2 | Nginx - Beginner to Advanced 2022 | NGINX-JAN-24 | 
+| 3 | Splunk 2023 - Beginner to Architect | SPLUNK-JAN-24 | 
+| 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-JAN-24 | 
+| 5 | HashiCorp Certified - Consul Associate 2022 | CONSUL-JAN-24	 | 
 
 
 
