@@ -16,6 +16,12 @@ http://kplabs.in/chat
   <img width="350" height="200" src="https://i.ibb.co/b3jFkkk/discord-terraform.png">
 </p>
 
+## IMPORTANT NOTE
+
+There is an ongoing issue in Udemy due to which coupon code discounts are not getting applied. This is an issue with all of the courses. We recommend waiting for a few days for this issue to be resolved from the Udemy side.
+
+This note will be removed as soon as the issue is resolved.
+
 # AWS Courses 
 
 | Sr No | Document Link | Coupon Code |
