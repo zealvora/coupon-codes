@@ -16,11 +16,6 @@ http://kplabs.in/chat
   <img width="350" height="200" src="https://i.ibb.co/b3jFkkk/discord-terraform.png">
 </p>
 
-## IMPORTANT NOTE
-
-There is an ongoing issue in Udemy due to which coupon code discounts are not getting applied. This is an issue with all of the courses. We recommend waiting for a few days for this issue to be resolved from the Udemy side.
-
-This note will be removed as soon as the issue is resolved.
 
 # AWS Courses 
 
@@ -29,8 +24,8 @@ This note will be removed as soon as the issue is resolved.
 | 1 |AWS Certified Cloud Practitioner 2023 | CP-FEB-24 | 
 | 2 |AWS Certified Solutions Architect - Associate  2023| SAA-FEB-24 |
 | 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-FEB-24 |
-| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-FEB-24 |
-| 5 |AWS Certified Security - Specialty 2023 | SEC-FEB-24 |
+| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-FEB-NEW-24 |
+| 5 |AWS Certified Security - Specialty 2023 | SEC-FEB-NEW-24 |
 | 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-FEB-24 |
 
 # Container and Orchestration
@@ -46,7 +41,7 @@ This note will be removed as soon as the issue is resolved.
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-FEB-24 | 
+| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-FEB-NEW-24 | 
 | 2 | Nginx - Beginner to Advanced 2022 | NGINX-FEB-24 | 
 | 3 | Splunk 2023 - Beginner to Architect | SPLUNK-FEB-24 | 
 | 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-FEB-24 | 
