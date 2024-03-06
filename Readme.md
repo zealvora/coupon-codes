@@ -41,7 +41,7 @@ http://kplabs.in/chat
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-MARCH-244 | 
+| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-MARCH-24 | 
 | 2 | Nginx - Beginner to Advanced 2022 | NGINX-MARCH-24 | 
 | 3 | Splunk 2023 - Beginner to Architect | SPLUNK-MARCH-24 | 
 | 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-MARCH-24 | 
