@@ -1,7 +1,5 @@
 # Awesome Coupon Codes for KPLABS courses.
 
-Udemy has recently made major changes to its coupon code systems. This completely changes the way in which Instructors can share coupons. Hence, I have created this central GitHub page, which will have the list of the latest coupon codes available for our courses.
-
 #### Udemy Profile Link for Zeal Vora
 
 ```sh
@@ -21,31 +19,31 @@ http://kplabs.in/chat
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 |AWS Certified Cloud Practitioner 2023 | CP-MAY-24 | 
-| 2 |AWS Certified Solutions Architect - Associate  2023| SAA-MAY-24 |
-| 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-MAY-24 |
-| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-MAY-24 |
-| 5 |AWS Certified Security - Specialty 2023 | SEC-MAY-24 |
-| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-MAY-24 |
+| 1 |AWS Certified Cloud Practitioner 2023 | CP-JUNE-24 | 
+| 2 |AWS Certified Solutions Architect - Associate  2023| SAA-JUNE-24 |
+| 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-JUNE-24 |
+| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-JUNE-24 |
+| 5 |AWS Certified Security - Specialty 2023 | SEC-JUNE-24 |
+| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-JUNE-24 |
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2023 | DCA-MAY-24 | 
-| 2 | Certified Kubernetes Administrator 2023 | CKA-MAY-24 | 
-| 3 | Certified Kubernetes Application Developer 2023 | CKAD-MAY-24 | 
-| 4 | Certified Kubernetes Security Specialist 2023 | CKS-MAY-24 | 
+| 1 | Docker Certified Associate 2023 | DCA-JUNE-24 | 
+| 2 | Certified Kubernetes Administrator 2023 | CKA-JUNE-24 | 
+| 3 | Certified Kubernetes Application Developer 2023 | CKAD-JUNE-24 | 
+| 4 | Certified Kubernetes Security Specialist 2023 | CKS-JUNE-24 | 
 
 # DevOps Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-MAY-24 | 
-| 2 | Nginx - Beginner to Advanced 2022 | NGINX-MAY-24 | 
-| 3 | Splunk 2023 - Beginner to Architect | SPLUNK-MAY-24 | 
-| 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-MAY-24 | 
-| 5 | HashiCorp Certified - Consul Associate 2022 | CONSUL-MAY-24	 | 
+| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-JUNE-24 | 
+| 2 | Nginx - Beginner to Advanced 2022 | NGINX-JUNE-24 | 
+| 3 | Splunk 2023 - Beginner to Architect | SPLUNK-JUNE-24 | 
+| 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-JUNE-24 | 
+| 5 | HashiCorp Certified - Consul Associate 2022 | CONSUL-JUNE-24	 | 
 
 
 
