@@ -19,31 +19,31 @@ http://kplabs.in/chat
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 |AWS Certified Cloud Practitioner 2023 | CP-JUNE-24 | 
-| 2 |AWS Certified Solutions Architect - Associate  2023| SAA-JUNE-24 |
-| 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-JUNE-24 |
-| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-JUNE-24 |
-| 5 |AWS Certified Security - Specialty 2023 | SEC-JUNE-24 |
-| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-JUNE-24 |
+| 1 |AWS Certified Cloud Practitioner 2023 | CP-JULY-24 | 
+| 2 |AWS Certified Solutions Architect - Associate  2023| SAA-JULY-24 |
+| 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-JULY-24 |
+| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-JULY-24 |
+| 5 |AWS Certified Security - Specialty 2023 | SEC-JULY-24 |
+| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-JULY-24 |
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2023 | DCA-JUNE-24 | 
-| 2 | Certified Kubernetes Administrator 2023 | CKA-JUNE-24 | 
-| 3 | Certified Kubernetes Application Developer 2023 | CKAD-JUNE-24 | 
-| 4 | Certified Kubernetes Security Specialist 2023 | CKS-JUNE-24 | 
+| 1 | Docker Certified Associate 2023 | DCA-JULY-24 | 
+| 2 | Certified Kubernetes Administrator 2023 | CKA-JULY-24 | 
+| 3 | Certified Kubernetes Application Developer 2023 | CKAD-JULY-24 | 
+| 4 | Certified Kubernetes Security Specialist 2023 | CKS-JULY-24 | 
 
 # DevOps Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-JUNE-24 | 
-| 2 | Nginx - Beginner to Advanced 2022 | NGINX-JUNE-24 | 
-| 3 | Splunk 2023 - Beginner to Architect | SPLUNK-JUNE-24 | 
-| 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-JUNE-24 | 
-| 5 | HashiCorp Certified - Consul Associate 2022 | CONSUL-JUNE-24	 | 
+| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-JULY-24 | 
+| 2 | Nginx - Beginner to Advanced 2022 | NGINX-JULY-24 | 
+| 3 | Splunk 2023 - Beginner to Architect | SPLUNK-JULY-24 | 
+| 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-JULY-24 | 
+| 5 | HashiCorp Certified - Consul Associate 2022 | CONSUL-JULY-24	 | 
 
 
 
