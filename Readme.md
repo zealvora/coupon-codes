@@ -19,31 +19,31 @@ http://kplabs.in/chat
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 |AWS Certified Cloud Practitioner 2023 | CP-SEP-24 | 
-| 2 |AWS Certified Solutions Architect - Associate  2023| SAA-SEP-24 |
-| 3 |AWS Certified Solutions Architect - Professional 2022 | SAPRO-SEP-24 |
-| 4 |AWS Certified Advanced Networking - Specialty 2022 | ANS-SEP-24 |
-| 5 |AWS Certified Security - Specialty 2023 | SEC-SEP-24 |
-| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-SEP-24 |
+| 1 |AWS Certified Cloud Practitioner 2024 | CP-OCT-24 | 
+| 2 |AWS Certified Solutions Architect - Associate  2024| SAA-OCT-24 |
+| 3 |AWS Certified Solutions Architect - Professional 2024 | SAP-OCT-24 |
+| 4 |AWS Certified Advanced Networking - Specialty 2024 | ANS-OCT-24 |
+| 5 |AWS Certified Security - Specialty 2024 | SEC-OCT-24 |
+| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-OCT-24 |
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2023 | DCA-SEP-24 | 
-| 2 | Certified Kubernetes Administrator 2023 | CKA-SEP-24 | 
-| 3 | Certified Kubernetes Application Developer 2023 | CKAD-SEP-24 | 
-| 4 | Certified Kubernetes Security Specialist 2023 | CKS-SEP-24 | 
+| 1 | Docker Certified Associate 2024 | DCA-OCT-24 | 
+| 2 | Certified Kubernetes Administrator 2024 | CKA-OCT-24 | 
+| 3 | Certified Kubernetes Application Developer 2024 | CKAD-OCT-24 | 
+| 4 | Certified Kubernetes Security Specialist 2024 | CKS-OCT-24 | 
 
 # DevOps Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2023 | TF-SEP-24 | 
-| 2 | Nginx - Beginner to Advanced 2022 | NGINX-SEP-24 | 
-| 3 | Splunk 2023 - Beginner to Architect | SPLUNK-SEP-24 | 
-| 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-SEP-24 | 
-| 5 | HashiCorp Certified - Consul Associate 2022 | CONSUL-SEP-24	 | 
+| 1 | HashiCorp Certified: Terraform Associate 2024 | TF-OCT-24 | 
+| 2 | Nginx - Beginner to Advanced 2023 | NGINX-OCT-24 | 
+| 3 | Splunk - Beginner to Architect | SPLUNK-OCT-24 | 
+| 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-OCT-24 | 
+| 5 | HashiCorp Certified - Consul Associate 2024 | CONSUL-OCT-24	 | 
 
 
 
