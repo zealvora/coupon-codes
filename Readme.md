@@ -40,10 +40,11 @@ http://kplabs.in/chat
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
 | 1 | HashiCorp Certified: Terraform Associate 2024 | TF-DEC-24 | 
-| 2 | Nginx - Beginner to Advanced 2023 | NGINX-DEC-24 | 
-| 3 | Splunk - Beginner to Architect | SPLUNK-DEC-24 | 
-| 4 | HashiCorp Certified - Vault Associate 2023 | VAULT-DEC-24 | 
-| 5 | HashiCorp Certified - Consul Associate 2024 | CONSUL-DEC-24	 | 
+| 2 | HashiCorp Certified: Terraform Authoring and Operations Professional  | TF-PRO-2025 | 
+| 3 | Nginx - Beginner to Advanced 2023 | NGINX-DEC-24 | 
+| 4 | Splunk - Beginner to Architect | SPLUNK-DEC-24 | 
+| 5 | HashiCorp Certified - Vault Associate 2023 | VAULT-DEC-24 | 
+| 6 | HashiCorp Certified - Consul Associate 2024 | CONSUL-DEC-24	 | 
 
 
 
