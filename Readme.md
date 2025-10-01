@@ -19,32 +19,32 @@ http://kplabs.in/chat
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 |AWS Certified Cloud Practitioner 2025 | CP-SEP-25 | 
-| 2 |AWS Certified Solutions Architect - Associate  2025| SAA-SEP-25 |
-| 3 |AWS Certified Solutions Architect - Professional 2025 | SAPRO-SEP-25 |
-| 4 |AWS Certified Advanced Networking - Specialty 2025 | ANS-SEP-25 |
-| 5 |AWS Certified Security - Specialty 2025 | SEC-SEP-25 |
-| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-SEP-25 |
+| 1 |AWS Certified Cloud Practitioner 2025 | CP-OCT-25 | 
+| 2 |AWS Certified Solutions Architect - Associate  2025| SAA-OCT-25 |
+| 3 |AWS Certified Solutions Architect - Professional 2025 | SAPRO-OCT-25 |
+| 4 |AWS Certified Advanced Networking - Specialty 2025 | ANS-OCT-25 |
+| 5 |AWS Certified Security - Specialty 2025 | SEC-OCT-25 |
+| 6 |AWS Certified DevOps Engineer - Professional | DEVOPS-OCT-25 |
 
 # Container and Orchestration
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | Docker Certified Associate 2024 | DCA-SEP-25 | 
-| 2 | Certified Kubernetes Administrator 2025 | CKA-SEP-25 | 
-| 3 | Certified Kubernetes Application Developer 2025 | CKAD-SEP-25 | 
-| 4 | Certified Kubernetes Security Specialist 2025 | CKS-SEP-25 | 
+| 1 | Docker Certified Associate 2024 | DCA-OCT-25 | 
+| 2 | Certified Kubernetes Administrator 2025 | CKA-OCT-25 | 
+| 3 | Certified Kubernetes Application Developer 2025 | CKAD-OCT-25 | 
+| 4 | Certified Kubernetes Security Specialist 2025 | CKS-OCT-25 | 
 
 # DevOps Courses
 
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
-| 1 | HashiCorp Certified: Terraform Associate 2025 | TF-SEP-25 | 
-| 2 | HashiCorp Certified: Terraform Authoring and Operations Professional  | TFPRO-SEP-25 | 
-| 3 | Nginx - Beginner to Advanced 2023 | NGINX-SEP-25 | 
-| 4 | Splunk - Beginner to Architect | SPLUNK-SEP-25 | 
-| 5 | HashiCorp Certified - Vault Associate 2023 | VAULT-SEP-25 | 
-| 6 | HashiCorp Certified - Consul Associate 2024 | CONSUL-SEP-25	 | 
+| 1 | HashiCorp Certified: Terraform Associate 2025 | TF-OCT-25 | 
+| 2 | HashiCorp Certified: Terraform Authoring and Operations Professional  | TF-OCT-25 | 
+| 3 | Nginx - Beginner to Advanced 2023 | NGINX-OCT-25 | 
+| 4 | Splunk - Beginner to Architect | SPLUNK-OCT-25 | 
+| 5 | HashiCorp Certified - Vault Associate 2023 | VAULT-OCT-25 | 
+| 6 | HashiCorp Certified - Consul Associate 2024 | CONSUL-OCT-25	 | 
 
 
 
