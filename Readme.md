@@ -31,7 +31,7 @@ http://kplabs.in/chat
 | Sr No | Document Link | Coupon Code |
 | ------ | ------ | ------ |
 | 1 | [Docker Certified Associate 2026](https://www.udemy.com/course/docker-certified-associate/?referralCode=E2CF90FB1DB7224FF28B) | DCA-AUG-26 | 
-| 2 | [Kubernetes and Cloud Native Security Associate (KCSA) 2026](https://www.udemy.com/course/kubernetes-cloud-native-security-associate-kcsa/?referralCode=39159ECF96A57C8631FD) | KCSA-JULY-26 | 
+| 2 | [Kubernetes and Cloud Native Security Associate (KCSA) 2026](https://www.udemy.com/course/kubernetes-cloud-native-security-associate-kcsa/?referralCode=39159ECF96A57C8631FD) | KCSA-AUG-26 | 
 | 3 | [Certified Kubernetes Administrator 2026](https://www.udemy.com/course/certified-kubernetes-administrator/?referralCode=700DA06BF8A30E27AC7E)| CKA-AUG-26 | 
 | 4 | [Certified Kubernetes Application Developer 2026](https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/?referralCode=3A549BA24AC8ED6597DF) | CKAD-AUG-26 | 
 | 5 | [Certified Kubernetes Security Specialist 2026](https://www.udemy.com/course/certified-kubernetes-security-specialist-certification/?referralCode=F38A7E4C09BFEC7E3C58)| CKS-AUG-26 |
